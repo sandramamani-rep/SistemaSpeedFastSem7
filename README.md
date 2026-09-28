@@ -145,8 +145,7 @@ git clone https://github.com/sandramamani-rep/SistemaSpeedFastSem7.git
 
 ## 🔗 Repositorio y entrega
 
-- **Repositorio GitHub:** [\[Pega aquí el enlace al repositorio nuevo\]](https://github.com/sandramamani-rep/SistemaSpeedFastSem7.git)
-- **Proyecto comprimido:** entrega en formato `.zip` junto con el enlace al repositorio.
+- **Repositorio GitHub:** [\[link\]](https://github.com/sandramamani-rep/SistemaSpeedFastSem7.git)
 - **Fecha de entrega:** [28/09/2026]
 
 ---
